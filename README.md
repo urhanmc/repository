@@ -1,2 +1,1 @@
-yeni read me
-sss
+yenii
